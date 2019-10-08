@@ -9,7 +9,7 @@ public class InAppWebViewOptions extends Options {
   public boolean useShouldOverrideUrlLoading = false;
   public boolean useOnLoadResource = false;
   public boolean clearCache = false;
-  public String userAgent = "";
+  public String userAgent = ";BambuMobile; Android BuildCode/100";
   public boolean javaScriptEnabled = true;
   public boolean javaScriptCanOpenWindowsAutomatically = false;
   public boolean mediaPlaybackRequiresUserGesture = true;
